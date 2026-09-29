@@ -1,0 +1,5 @@
+opencv-python>=4.10,<5.0
+ultralytics>=8.3,<9.0
+pygame-ce>=2.5,<3.0
+requests>=2.32,<3.0
+cloudinary>=1.41,<2.0

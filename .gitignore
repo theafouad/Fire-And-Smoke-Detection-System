@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+*.caffemodel
+fire.pt
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+apps/desktop/dist/
+alert_records/*
+!alert_records/.gitkeep
+storage/
+*.log
+*.db
+.kilo
+.vscode/
+
+# Runtime inference assets are intentionally versioned with the edge agent.
+!apps/edge_agent/models/
+!apps/edge_agent/models/*
